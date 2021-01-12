@@ -3,7 +3,7 @@ blessings==1.6
 bzr>=2.6.0
 libcharmstore>=0.0.3
 cheetah==2.4.4
-colander==1.0
+colander==1.7.0
 coverage==3.7.1
 flake8==1.6.2
 httplib2==0.7.7
