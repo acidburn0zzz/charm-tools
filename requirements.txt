@@ -1,4 +1,4 @@
-PyYAML==3.11
+PyYAML==5.1
 blessings==1.6
 bzr>=2.6.0
 libcharmstore>=0.0.3
