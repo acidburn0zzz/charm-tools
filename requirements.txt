@@ -6,7 +6,7 @@ cheetah==2.4.4
 colander==1.0
 coverage==3.7.1
 flake8==1.6.2
-httplib2==0.7.7
+httplib2==0.18.0
 juju-deployer==0.4.3
 jujubundlelib>=0.1.9
 jujuclient==0.50.1
