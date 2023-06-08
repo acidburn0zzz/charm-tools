@@ -54,7 +54,7 @@ GEM
     systemu (2.5.2)
     thread_safe (0.3.4)
     tzinfo (0.3.41)
-    yajl-ruby (1.1.0)
+    yajl-ruby (1.4.3)
 
 PLATFORMS
   ruby
